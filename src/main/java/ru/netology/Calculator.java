@@ -1,3 +1,5 @@
+package ru.netology;
+
 public class Calculator {
     public Formula newFormula() {
         return new Formula();

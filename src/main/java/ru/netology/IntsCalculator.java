@@ -1,3 +1,5 @@
+package ru.netology;
+
 public class IntsCalculator implements Ints {
     protected final Calculator target;
 
